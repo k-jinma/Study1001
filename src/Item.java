@@ -4,6 +4,7 @@ public class Item {
 	private int no; // 商品番号
 	private String name; // 商品名
 	private int price; // 価格
+
 	
 	// コンストラクタ
 	Item(int no, String name, int price) {
